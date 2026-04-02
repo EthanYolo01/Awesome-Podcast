@@ -815,4 +815,5 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 > 💡 **Found this useful? Give it a ⭐ — it helps other podcasters discover it.**
 >
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool. Automatically extracts the best moments from long-form videos for TikTok, YouTube Shorts, and Instagram Reels.
 > Last updated: March 2026 · Actively maintained
