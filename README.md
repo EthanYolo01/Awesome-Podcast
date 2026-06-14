@@ -236,6 +236,7 @@
 | **Cleanvoice AI** | Automatically removes filler words, mouth sounds, and dead air |
 | **Auphonic** | Auto-levels loudness to -16 LUFS (podcast standard), adds chapter markers |
 | **ChatGPT / Claude** | Episode outlines, interview questions, show notes, SEO descriptions, title brainstorming |
+| **[CreatorSkills](https://creatorskills.co)** | Downloadable AI skills for podcast episode planning, scripting, sponsorship outreach, and audience growth — works with Claude and ChatGPT |
 | **Jasper** | Marketing copy, ad reads, social media content at scale |
 | **Opus Clip** | AI clips your long-form episode into viral short-form content automatically |
 | **Headliner** | Auto-video from podcast episodes, audiogram creation |
