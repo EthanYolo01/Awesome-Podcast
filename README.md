@@ -265,16 +265,16 @@
 
 | Platform | Best For | Standout Feature | Pricing |
 |---|---|---|---|
-| **Buzzsprout** | Beginners | Clean UX, Magic Mastering, great onboarding | Free (90-day expiry) / $12–$24/mo |
+| **Buzzsprout** | Beginners | Clean UX, Magic Mastering, great onboarding | Free (90-day expiry) / From $15/mo billed annually |
 | **Transistor.fm** | Multi-show creators | Unlimited shows per plan, private podcasting | From $19/mo |
 | **Captivate** | Growth-focused creators | Built-in call-to-action tools, dynamic content | From $17/mo |
 | **Simplecast** | Professional teams | Advanced analytics, WordPress integration, team accounts | From $15/mo |
-| **Podbean** | Monetization-first | Built-in patron program, live audio | Free / From $9/mo |
-| **RSS.com** | Budget-conscious | Unlimited episodes on all plans | From $8.25/mo |
+| **Podbean** | Monetization-first | Built-in patron program, live audio | Free / From $12/mo billed annually |
+| **RSS.com** | Budget-conscious | Unlimited episodes on all plans | Free / From $15/mo billed annually |
 | **Spotify for Podcasters (Anchor)** | Absolute beginners | 100% free, direct Spotify integration | Free |
 | **Megaphone** | Enterprise / Media companies | Dynamic ad insertion, targeting, Spotify integration | Enterprise pricing |
 | **Castos** | WordPress users | Deep WP plugin, unlimited uploads on all plans | From $19/mo |
-| **Libsyn** | Veteran podcasters | Oldest hosting platform, robust analytics, app creation | From $7/mo |
+| **Libsyn** | Veteran podcasters | Oldest hosting platform, robust analytics, app creation | From $8/mo |
 | **Acast** | Monetization-first | Open ecosystem, dynamic ads, global marketplace | Free / Revenue share |
 
 ---
